@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-html-and-css-nft-preview-card-rJddgRtf9)
-- Live Site URL: [Add live site URL here](https://jplawrence.github.io/nftpreviewcard/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-html-and-css-nft-preview-card-rJddgRtf9)
+- Live Site URL: [NFT Preview Card](https://jplawrence.github.io/nftpreviewcard/)
 
 ## My process
 
