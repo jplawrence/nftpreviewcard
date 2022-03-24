@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-html-and-css-nft-preview-card-rJddgRtf9)
 - Live Site URL: [Add live site URL here](https://jplawrence.github.io/nftpreviewcard/)
 
 ## My process
